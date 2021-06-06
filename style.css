@@ -1,0 +1,23 @@
+/* h1,
+h2 {
+  text-align: center;
+} */
+h1 {
+  color: red;
+}
+h2 {
+  color: purple;
+}
+h3 {
+    color: sandybrown;
+}
+h3 {
+    color: seagreen;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+.center {
+  text-align: center;
+}
